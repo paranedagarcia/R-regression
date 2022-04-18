@@ -1,22 +1,6 @@
 # R-regression
 Análisis de regresion en R. Parte del material de curso universitario Analítica de datos.
 
----
-title: "Regresion Simple"
-author: "Patricio Araneda"
-date: "`r Sys.Date()`"
-output: 
-  html_document: 
-    code_folding: show
-    highlight: pygments
-    pdf_document: default
-    theme: cerulean
-    toc: yes
-    toc_float: yes
-  word_document: default
-  pdf_document: default
----
-
 # ¿Qué es regresión?
 
 Es un tipo de análisis estadístico para establecer la posible relación entre una o más variables de un conjunto de datos observados. Se intenta determinar la relación entre una variable de interés (dependiente) respecto del valor de una o más variables predictoras. Todas las variables involucradas (dependiente y las predictoras utilizadas) deben ser numéricas para este tipo de análisis.
